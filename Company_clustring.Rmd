@@ -2,6 +2,7 @@
 title: "Company Segmentation"
 author: "Ramy Abougreeda"
 output: rmarkdown::github_document:
+    keeb_md: true
   pdf_document:
   #   toc: true
   # word_document:
