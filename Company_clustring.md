@@ -3,16 +3,16 @@ title: "Company Segmentation"
 author: "Ramy Abougreeda"
 output: rmarkdown::github_document:
     keeb_md: true
-  pdf_document:
+  # pdf_document:
   #   toc: true
   # word_document:
   #   toc: true
   # html_document:
   #   toc: true
-  #   theme: flatly
-  #   highlight: tango
-  #   code_folding: hide
-  #   df_print: paged
+    theme: flatly
+    highlight: tango
+    code_folding: hide
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
