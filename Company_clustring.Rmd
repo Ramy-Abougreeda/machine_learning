@@ -1,17 +1,17 @@
 ---
 title: "Company Segmentation"
 author: "Ramy Abougreeda"
-output:
+output: rmarkdown::gethub_document:
   pdf_document:
-    toc: true
-  word_document:
-    toc: true
-  html_document:
-    toc: true
-    theme: flatly
-    highlight: tango
-    code_folding: hide
-    df_print: paged
+  #   toc: true
+  # word_document:
+  #   toc: true
+  # html_document:
+  #   toc: true
+  #   theme: flatly
+  #   highlight: tango
+  #   code_folding: hide
+  #   df_print: paged
 ---
 
 ```{r setup, include=FALSE}
